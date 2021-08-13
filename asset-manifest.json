@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/FetchDataCorvid19AndDisplayOnChart/static/css/main.d7ef280a.chunk.css",
+    "main.js": "/FetchDataCorvid19AndDisplayOnChart/static/js/main.f62a8b14.chunk.js",
+    "main.js.map": "/FetchDataCorvid19AndDisplayOnChart/static/js/main.f62a8b14.chunk.js.map",
+    "runtime-main.js": "/FetchDataCorvid19AndDisplayOnChart/static/js/runtime-main.e699301d.js",
+    "runtime-main.js.map": "/FetchDataCorvid19AndDisplayOnChart/static/js/runtime-main.e699301d.js.map",
+    "static/js/2.75bbbe9e.chunk.js": "/FetchDataCorvid19AndDisplayOnChart/static/js/2.75bbbe9e.chunk.js",
+    "static/js/2.75bbbe9e.chunk.js.map": "/FetchDataCorvid19AndDisplayOnChart/static/js/2.75bbbe9e.chunk.js.map",
+    "index.html": "/FetchDataCorvid19AndDisplayOnChart/index.html",
+    "static/css/main.d7ef280a.chunk.css.map": "/FetchDataCorvid19AndDisplayOnChart/static/css/main.d7ef280a.chunk.css.map",
+    "static/js/2.75bbbe9e.chunk.js.LICENSE.txt": "/FetchDataCorvid19AndDisplayOnChart/static/js/2.75bbbe9e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e699301d.js",
+    "static/js/2.75bbbe9e.chunk.js",
+    "static/css/main.d7ef280a.chunk.css",
+    "static/js/main.f62a8b14.chunk.js"
+  ]
+}
